@@ -2,9 +2,9 @@
 
 I'm a full stack developer with more than 3 years of experience, passionate about programming and technology. I like to design and architect systems and databases.
 
-My favorite stack is Javascript, using React, React Native, Node.js, Angular, Ionic, etc. I also like to work with databases SQL and NoSQL (as PostgreSQL and MongoDB).
+My favorite stack is Javascript, using React, React Native, Node.js, Angular, Ionic, etc. I also like to work with databases SQL and NoSQL (as PostgreSQL and MongoDB), and I'm entering in the Blockchain world using [EOSIO](https://eos.io/) and C++.
 
-Besides it, I also worked with Python (Flask), Blockchain (EOSIO with C++). I also studied a lot about Flutter, Swift, Golang, Elixir (with Phoenix), but I still didn't use them professionally. (I even made a Flutter course for my Brazilian youtube channel)
+Besides it, I also worked with Python (Flask), PHP (Code Igniter, Laravel), and Firebase tools. I also studied a lot about Flutter, Swift, Golang, Elixir (with Phoenix), but I still didn't use them professionally.
 
 - 💻 I’m currently working on [Belatrix Software](https://www.belatrixsf.com/)
 - 🤓 I’m currently learning Swift and Elixir
