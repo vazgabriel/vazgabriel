@@ -8,6 +8,7 @@ Besides it, I also worked with Python (Flask), PHP (Code Igniter, Laravel), and 
 
 - 💻 I’m currently working at [Belatrix Software](https://www.belatrixsf.com/), a [Globant](https://www.globant.com/) division
 - 🤓 I’m currently learning Swift and Elixir
-- 📕 I’m looking to collaborate on sharing knowledge at [Comunidade Código pra Todos (Brazilian Community)](http://comunidade.codigopratodos.com/)
+- 📕 I'm currently collaborating with [Cursos pra todos](https://github.com/CodigoPraTodos/cursospratodos) (A brazilian community of free courses sharing and exercises)
+- 📕 I’m currently collaborating and sharing knowledge at [Comunidade Código pra Todos (Brazilian Community)](http://comunidade.codigopratodos.com/)
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/gabrielcvaz/), [Twitter](https://twitter.com/GabrielVaz1404), [Youtube (portuguese)](https://www.youtube.com/channel/UCX4F-tcOcL6q4aO1iOChSNw)
 - ⚡ Fun fact: I love skating 🛹 and cooking 👨‍🍳
