@@ -6,7 +6,7 @@ My favorite stack is Javascript, using React, React Native, Node.js, Angular, Io
 
 Besides it, I also worked with Python (Flask), PHP (Code Igniter, Laravel), and Firebase tools. I also studied a lot about Flutter, Swift, Golang, Elixir (with Phoenix), but I still didn't use them professionally.
 
-- 💻 I’m currently working at [CleverTech](https://www.clevertech.biz/) as a Senior Backend Engineer
+- 💻 I’m currently working at [CleverTech](https://www.clevertech.biz/) as a Senior Software Engineer
 - 🤓 I’m currently learning [Elixir](https://elixir-lang.org/), and [Swift/SwiftUI](https://developer.apple.com/swift/)
 - 📕 I'm currently collaborating with [Cursos pra todos (A brazilian community that shares free courses and exercises)](https://github.com/CodigoPraTodos/cursospratodos)
 - 📕 I’m currently collaborating and sharing knowledge at [Comunidade Código pra Todos (Brazilian Community)](http://comunidade.codigopratodos.com/)
