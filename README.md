@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm a full stack developer with more than 4 years of experience. I love programming, designing systems, databases, etc.
+I'm a full stack developer with more than 5 years of experience. I love programming, designing systems, databases, etc.
 
 My favorite stack is Javascript, using React, Next.js, TypeScript, Node.js, React Native, Angular, Ionic, etc. I have also developed with Golang, Python (with Flask), PHP, Firebase, Blockchains using EOSIO, etc. I have a great experience designing SQL (PostgreSQL, MySQL) and NoSQL (MongoDB) databases and systems' architectures with REST and GraphQL APIs, Monoliths and Microservices.
 
