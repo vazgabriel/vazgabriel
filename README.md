@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-I'm a full stack developer with more than 5 years of experience. I love programming, designing systems, databases, etc.
+I have been working as a software engineer since 2017. I love programming, designing systems, databases, etc. Recently I have specialized in Frontend development.
 
-My favorite stack is Javascript, using React, Next.js, TypeScript, Node.js, React Native, Angular, Ionic, etc. I have also developed with Golang, Python (with Flask), PHP, Firebase, Blockchains using EOSIO, etc. I have a great experience designing SQL (PostgreSQL, MySQL) and NoSQL (MongoDB) databases and systems' architectures with REST and GraphQL APIs, Monoliths and Microservices.
+I love using React and Typescript (and all the tools that come with it), I have also worked with Angular in the frontend, and Node.js, Python, Java, etc in the backend. I have worked with monoliths and distributed systems (microservices and microfrontends), and with SQL and NoSQL databases.
 
 - 💻 I’m currently working at [AWS](https://aws.amazon.com/) as a Frontend Engineer (L5)
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/gabrielcvaz/)
